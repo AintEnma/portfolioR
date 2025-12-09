@@ -2,6 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 import { motion, useMotionValue, useTransform } from 'motion/react';
 // replace icons with your own if needed
 import { FiMail, FiGithub, FiInstagram, FiLinkedin } from 'react-icons/fi';
+import { supabase } from '../supabaseClient';
 
 import './Carousel.css';
 
