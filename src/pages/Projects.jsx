@@ -11,15 +11,15 @@ export default function Projects() {
       <section className="projects-grid">
         <div className="project-card">
           <h3>Project 1</h3>
-          <p>Description of project 1</p>
+          <p>Description</p>
         </div>
         <div className="project-card">
           <h3>Project 2</h3>
-          <p>Description of project 2</p>
+          <p>Description </p>
         </div>
         <div className="project-card">
           <h3>Project 3</h3>
-          <p>Description of project 3</p>
+          <p>Description</p>
         </div>
       </section>
     </div>
